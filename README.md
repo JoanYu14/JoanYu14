@@ -12,6 +12,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joanyu14&show_icons=true&locale=en&layout=compact" alt="joanyu14" /></p>
 <h3>專案</h3>
 <ul>
-  <li><a href="https://github.com/JoanYu14/MERN-Stack-Project" target="blank">師生課程網站(MERN Stack)</a></li>
+  <li><a href="https://github.com/JoanYu14/MERN-Stack-Project" target="_blank">師生課程網站(MERN Stack)</a></li>
 </ul>
 
