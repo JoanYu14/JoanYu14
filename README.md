@@ -12,7 +12,7 @@
   <li><a href="https://github.com/JoanYu14/Project1-Google-OAuth-Pracice" target="_blank">會員發布貼文網站(MVC)</a></li>
   <li><a href="https://github.com/JoanYu14/Project2-Image-Website" target="_blank">圖片網站</a></li>
   <li><a href="https://github.com/JoanYu14/Project-Snake-game" target="_blank">貪食蛇遊戲</a></li>
-  <li><a href="https://github.com/JoanYu14/Project-Douncing-ball-gamee" target="_blank">彈跳球遊戲</a></li>
+  <li><a href="https://github.com/JoanYu14/Project-Douncing-ball-game" target="_blank">彈跳球遊戲</a></li>
   <li><a href="https://github.com/JoanYu14/Project-Calculate-GPA" target="_blank">GPA計算網站</a></li>
   <li><a href="https://github.com/JoanYu14/Project-Japan-travel" target="_blank">日本旅遊推薦網</a></li>
   <li><a href="https://github.com/JoanYu14/Project-Go-information-Website" target="_blank">圍棋資訊網</a></li>
